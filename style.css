@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 50px;
+}
+.contact {
+    border-radius: 30px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    text-align: center;
+    width: 183px;
+    margin-right: 30px;
+}
+nav {
+    padding-left: 70px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+}
+nav a {
+    padding: 25px;
+}
+nav a {
+    text-decoration: none;
+    color: #ccc;
+}
+.query-btn {
+    background-color: #88d7c7;
+    border-radius: 5px;
+    border: 1px solid #88d7c7;
+    font-size: 15px;
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+}
+.fas {
+    padding: 25px;
+}
+#product-details {
+    display: flex;
+}
+.product-img {
+    padding: 100px;
+}
+.product-description {
+    width: 15%;
+    font-family: 'Jost', sans-serif;
+}
+.amount-btn input {
+    width: 30px;
+}
+#submit-btn {
+    background-color: #d26e4b;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 5px 8px;
+    cursor: pointer;
+}
+.wish {
+    color: #88d7c7;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.categories {
+    margin-top: 5px;
+    line-height: 2em;
+}
+#descriptive-sect {
+    border-top: 1px solid #ccc;
+    padding: 5px 50px 0px 50px;
+    font-family: 'Jost', sans-serif;
+}
+#descriptive-sect h5 {
+    font-size: 18px;
+}
+#faqs h3 {
+    font-family: 'Jost', sans-serif;
+    color: #224AFB;
+    font-size: 18px;
+}
+#faqs {
+    font-family: 'Jost', sans-serif;
+}
+#related-products {
+    padding: 0px 50px 50px 50px;
+}
+#related-products h3 {
+    font-family: 'Jost', sans-serif;
+}
+.related-imgs {
+    display: flex;
+}
