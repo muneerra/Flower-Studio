@@ -1,2 +1,2 @@
 # Flower-Studio
-ttps://muneerra.github.io/Flower-Studio/.
+https://muneerra.github.io/Flower-Studio/.
